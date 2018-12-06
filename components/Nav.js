@@ -14,6 +14,7 @@ const Nav = () => (
             <li><Link href="/uk-news"><a>Uk News</a></Link></li>
            
            </ul>
+      <a href="https://newsapi.org/">Powered by NewsApi</a>
        </nav>
        {/* Define css for this page or component */}
        {/* Note back ticks `` surrounding css are required */}
